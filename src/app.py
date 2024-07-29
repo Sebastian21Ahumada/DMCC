@@ -5,7 +5,7 @@ from utils.functions import read_sqlite_to_dataframe
 
 def main():
     #Change
-    sqlite_db_path = os.path.join(os.path.dirname(__file__), '..','..', 'data', 'data.db')
+    sqlite_db_path = os.path.join(os.path.dirname(__file__), '..','..','..', 'data', 'data.db')
     # Read data 
     query = "SELECT * FROM data limit 10"
     df = read_sqlite_to_dataframe(sqlite_db_path, query)
