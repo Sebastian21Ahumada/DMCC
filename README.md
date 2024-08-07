@@ -1,6 +1,6 @@
 # Digital Marketing Customer Classification App
 
-This repository contains an exercise where I combine machine learning techniques and present the results in a web application for public use.
+This repository contains an exercise where I combine machine learning techniques and present the results in a web application for public use. The application is accessible through the following link: https://dmktg-customerclassification.streamlit.app/
 
 ## Objective
 
